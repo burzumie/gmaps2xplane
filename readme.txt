@@ -1,5 +1,5 @@
 This is command line tool to generate X-Plane 10 sceneries with high-quality satellite photos from GoogleMaps as ground textures.
-Project written in C++, using Qt library.
+Project written in C++, using Qt library. This is first working version, project in development.
 
 Use 'build.bat' file to build project under Windows.
 Required tools:
@@ -19,5 +19,4 @@ Usage:
 6. Run 'gen.bat', it will generate binary scenery file ("+50+030.dsf").
 7. Copy or move all contents of 'scenario_test/' directory to 'Custom scenery/' of X-Plane 10 installation folder.
 8. Run X-Plane, select UKKK airport (Kyiv, Zhulyany), take off from runway 08, turn left to course 15 degrees, fly towards city center, then look down.
-
 This is initial version. In future all scenery generation steps will be simplified.
