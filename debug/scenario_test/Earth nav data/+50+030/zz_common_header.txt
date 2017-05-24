@@ -1,0 +1,15 @@
+I
+800
+DSF2TEXT
+
+#+50+030.dsf
+
+PROPERTY sim/planet earth
+PROPERTY sim/overlay 1
+# PROPERTY sim/require_polygon 1/0
+# PROPERTY sim/creation_agent Test
+PROPERTY sim/west 30
+PROPERTY sim/east 31
+PROPERTY sim/north 51
+PROPERTY sim/south 50
+
